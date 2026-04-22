@@ -1,0 +1,20 @@
+{
+  "name": "glass-comparator-tool",
+  "version": "1.0.0",
+  "description": "Professional Glass Selection and Comparison Tool",
+  "keywords": [
+    "glass",
+    "comparator",
+    "saint-gobain"
+  ],
+  "author": "Saint-Gobain Sales Team",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "serve": "^14.2.1"
+  },
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'Static build complete'"
+  }
+}
